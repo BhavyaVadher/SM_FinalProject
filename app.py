@@ -1,2 +1,2 @@
-print(2 + 1)
-print(3)
+print(a=1)
+print()
