@@ -1,2 +1,2 @@
-print(a=1)
-print()
+print(1)
+print("bhavya")
