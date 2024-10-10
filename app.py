@@ -1,2 +1,2 @@
 print(1)
-print("bhavyas")
+print("bhavys")
