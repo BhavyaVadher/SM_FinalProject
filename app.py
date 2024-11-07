@@ -1,2 +1,3 @@
-print(1)
-print("bhvyaa")
+a=5
+b=6
+print(a==b)
