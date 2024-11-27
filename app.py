@@ -1,1 +1,1 @@
-print(float("20"))
+print(float("0"))
