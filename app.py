@@ -10,7 +10,7 @@ print("Solution to 3x - 5 = 16:", solution1)
 
 # Solve a system of equations
 # x + y = 5
-# 2x - y = 1
+# 2x - y = 
 eq1 = sp.Eq(x + y, 5)
 eq2 = sp.Eq(2*x - y, 1)
 solution_system = sp.solve((eq1, eq2), (x, y))
