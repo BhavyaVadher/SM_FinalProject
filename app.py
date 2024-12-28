@@ -1,6 +1,6 @@
 import sympy as sp
 
-# Define variables.
+# Define variables
 x, y = sp.symbols('x y')
 
 # Solve a simple linear equation 3x - 5 = 16.
