@@ -3,7 +3,7 @@ import sympy as sp
 # Define variables.
 x, y = sp.symbols('x y')
 
-# Solve a simple linear equation 3x - 5 = 16.
+# Solve a simple linear equation 3x - 5 = 16
 equation1 = sp.Eq(3*x - 5, 16)
 solution1 = sp.solve(equation1, x)
 print("Solution to 3x - 5 = 16:", solution1)
