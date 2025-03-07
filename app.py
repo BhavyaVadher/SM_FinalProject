@@ -15,7 +15,7 @@ RED = (255, 0, 0)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
-# Physics parameters
+# Physics parameters;
 GRAVITY = 0.5
 DAMPING = 0.8
 
