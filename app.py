@@ -5,7 +5,7 @@ from pptx.enum.shapes import MSO_CONNECTOR, MSO_SHAPE
 from pptx.dml.color import RGBColor
 
 
-# Create a new presentation.
+# Create a new presentation
 prs = Presentation()
 slide_layout = prs.slide_layouts[6]  # Blank layout
 slide = prs.slides.add_slide(slide_layout)
