@@ -10,7 +10,7 @@ prs = Presentation()
 slide_layout = prs.slide_layouts[6]  # Blank layout
 slide = prs.slides.add_slide(slide_layout)
 
-# Title.
+# Title
 title_box = slide.shapes.add_textbox(Inches(1), Inches(0.3), Inches(8), Inches(1))
 title_frame = title_box.text_frame
 title_frame.text = "Workflow: Staff Scheduling → Payroll System"
