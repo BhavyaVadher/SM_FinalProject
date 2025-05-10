@@ -17,7 +17,7 @@ title_frame.text = "Workflow: Staff Scheduling → Payroll System"
 title_frame.paragraphs[0].font.size = Pt(28)
 title_frame.paragraphs[0].font.bold = True
 
-# Step 1: Staff Scheduling System
+# Step 1: Staff Scheduling System,
 box1_left = Inches(0.5)
 box1_top = Inches(1.5)
 box1 = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, box1_left, box1_top, Inches(3), Inches(1))
