@@ -41,7 +41,7 @@ for p in box2.text_frame.paragraphs:
     p.font.color.rgb = RGBColor(0, 0, 0)
     p.font.bold = True
 
-# Step 3: Payroll System
+# Step 3: Payroll System.
 box3_left = Inches(8.5)
 box3_top = Inches(1.5)
 box3 = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, box3_left, box3_top, Inches(3), Inches(1))
