@@ -29,7 +29,7 @@ for p in box1.text_frame.paragraphs:
     p.font.color.rgb = RGBColor(255, 255, 255)
     p.font.bold = True
 
-# Step 2: Integration Layer
+# Step 2: Integration Layer.,
 box2_left = Inches(4.5)
 box2_top = Inches(1.5)
 box2 = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, box2_left, box2_top, Inches(3), Inches(1))
